@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ondrejhanak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ondrejhanak.cz
+  * I am ondrejhanak (https://keybase.io/ondrejhanak) on keybase.
+  * I have a public key ASAwZ93xjoEHiyy4W1D5BpxmcxjwRKJLMnKeH358nabhIgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012019a52a7ca72d1ccc24c282b0f419c82e276bd097beff88b4546c849d89ad399a0a",
+      "host": "keybase.io",
+      "kid": "01203067ddf18e81078b2cb85b50f9069c667318f044a24b32729e1f7e7c9da6e1220a",
+      "uid": "6b33e3c36a2a0cc316a15470d70dc519",
+      "username": "ondrejhanak"
+    },
+    "merkle_root": {
+      "ctime": 1553173696,
+      "hash": "4e7f007b3fbbe3fad76c97d60590268823c26b71389b5ebd3c4d22d18edd3ae61c73ba1e55ca92bbcf71bc9661eb223b973ea19fea7407e58f5f97ecebd1fb98",
+      "hash_meta": "71efe8c313d8e336a261912a22b4a0f223b5ac50a3d3d95e5addd9e628f1cc5f",
+      "seqno": 4994813
+    },
+    "service": {
+      "entropy": "hp70oJX1MrfuyukH6nP30PpT",
+      "hostname": "ondrejhanak.cz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1553173844,
+  "expire_in": 504576000,
+  "prev": "c89aed1499fdab84f187fd0f280253ac8faf9609e38eef387990b53b0e2b9490",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMGfd8Y6BB4ssuFtQ+QacZnMY8ESiSzJynh9+fJ2m4SIKp3BheWxvYWTESpcCCcQgyJrtFJn9q4Txh/0PKAJTrI+vlgnjju84eZC1Ow4rlJDEIIM0ReCGKsPvIp3MHx03RAWuBzuIFoWy+8xFrps+tOgMAgHCo3NpZ8RAun7UxyyP32pEYc+Pmt8LyRLYzkx5yMMsxFmXqNErCHhOxWLgSI65mHuGyJ53WeDEF2edNWbDZf8/u9Sq7KoeDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOYBkJVP4JYCnLGaWw4InWMmZeJl/KE8ORCoJRrkAT1Zo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ondrejhanak
+
+==================================================================
